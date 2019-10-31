@@ -212,6 +212,7 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 在 Mixin 里提供 OTC 服务的是 exin，机器人 ID：7000101276。
 
 你也可以到[ https://big.one] （https://big.one），这是国内老牌交易所云币团队打造的有信誉保障的区块链数字资产交易所，可以使用 USDT购买比特币，它也有[OTC服务] （https://otc.big.one/trade）。另外，Big.One的Mixin大群ID是：* 7000101910 *。
+
 如果你还是不懂的话没关系微信添加blockchain_bigdata或添加QQ群重阳投教研究院39962212发送验证（区块链小白书）立即免费添加！
 
 再次需要提醒风险：
@@ -374,12 +375,14 @@ TEE（Trusted Execution Environment，可信执行环境）的作用是，向公
 
 所以，有一个好学习环境至关重要，此有两个建议：
 
-> 1.公众号：“学习学习再学习”  xiaolai-xuexi
-> 2.公众号：“区块链大数据智库”    chain_bigdata
-> 3.QQ群：“重阳投教研究院”   39962212
+> 1.公众号：“学习学习再学习”  xiaolai-xuexi;
+> 2.公众号：“区块链大数据智库”    chain_bigdata;
+> 3.QQ群：“重阳投教研究院”   39962212;
+
 ---
 
 ## 关于本书
 
 本书不是技术书籍，它很短，它就是想尝试用最简单的方式给小白讲清楚区块链。
+
 本书链接https ://blockchainlittlebook.com
